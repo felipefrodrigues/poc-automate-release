@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/felipefrodrigues/poc-automate-release/compare/v1.0.1...v1.1.0) (2024-11-21)
+
+
+### Features
+
+* testando multiplos commits na main ([06e5998](https://github.com/felipefrodrigues/poc-automate-release/commit/06e5998ddc987fa9fe48e4397483216f2ae6043b))
+
+
+### Bug Fixes
+
+* testando multiplos commit agora com o fix ([f757ab0](https://github.com/felipefrodrigues/poc-automate-release/commit/f757ab0584ca57008f54c3025c83a8fe1320b567))
+
 ## [1.0.1](https://github.com/felipefrodrigues/poc-automate-release/compare/v1.0.0...v1.0.1) (2024-11-21)
 
 
