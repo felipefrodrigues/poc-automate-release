@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/felipefrodrigues/poc-automate-release/compare/v1.1.0...v1.1.1) (2024-11-21)
+
+
+### Bug Fixes
+
+* testando com o beto ([d38377c](https://github.com/felipefrodrigues/poc-automate-release/commit/d38377c8fd019b13650719504eede82bd9e7158a))
+
 ## [1.1.0](https://github.com/felipefrodrigues/poc-automate-release/compare/v1.0.1...v1.1.0) (2024-11-21)
 
 
